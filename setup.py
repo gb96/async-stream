@@ -40,7 +40,6 @@ setup(
     ],
     install_requires=[
         'zstandard',
-        'uvloop',
         'aiofiles',
         'pyarrow==0.14.1',
         'pyorc',
