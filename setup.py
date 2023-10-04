@@ -41,7 +41,7 @@ setup(
     install_requires=[
         'zstandard',
         'aiofiles',
-        'pyarrow==0.14.1',
+        'pyarrow',
         'pyorc',
         'pandas',
         'python-snappy'
